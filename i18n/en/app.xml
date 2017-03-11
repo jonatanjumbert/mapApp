@@ -1,0 +1,4 @@
+<resources>
+   <string name="appname">MapApp</string>
+   <string name="NSLocationWhenInUseUsageDescription">MapApp need use your GPS.</string>
+</resources>

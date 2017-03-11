@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <style>
+    	#map-canvas, body, html {
+    		height: 90%;
+    		margin: 0;
+    		padding: 0
+    	}
+    </style>
+  </head>
+  <body>
+  	<div id="controls">
+  		<p><a href="#" onclick="javascript:removeMarkers();">Borrar marcadores</a></p>
+  		<p><a href="#" onclick="javascript:addMarker();">Nuevo marcador</a></p>
+  	</div>
+    <div id="map-canvas"> </div>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+    <script src="_webmap_functions.js"></script>
+  </body>
+</html>

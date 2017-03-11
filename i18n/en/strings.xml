@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="GLOBAL_OK">OK</string>
+	<string name="GLOBAL_CANCEL">Cancel</string>
+	<string name="GLOBAL_ERROR">Error</string>
+	
+	<string name="TAB1_TITLE">Barcelona map</string>
+	<string name="TAB1_DELETE_MARKERS">Delete custom markers</string>
+	<string name="TAB1_DELETE_MARKERS_MSG">Are you sure you wanna delete your custom markers?</string>
+	
+	<string name="TAB2_TITLE">Add new marker</string>
+	<string name="TAB2_ADD">Add place</string>
+	<string name="TAB2_ADD_TITLE">Enter place name</string>
+	<string name="TAB2_ADD_SUBTITLE">Enter place description</string>
+	<string name="TAB2_ADD_LINK">More info link</string>
+	<string name="TAB2_ADD_LONGITUDE">Coordintate: LONGITUDE</string>
+	<string name="TAB2_ADD_LATITUDE">Coordintate: LATITUDE</string>
+	
+	<string name="TAB2_TITLE_MANDATORY">Title is mandatory</string>
+	<string name="TAB2_SUBTITLE_MANDATORY">Subtitle is mandatory</string>
+	<string name="TAB2_LATITUDE_MANDATORY">Latitude is mandatory</string>
+	<string name="TAB2_LONGITUDE_MANDATORY">Longitude is mandatory</string>
+	
+	<string name="TAB2_SAVING_MSG">Saving data...</string>
+	<string name="TAB2_SAVED_OK">Marker correctly added </string>
+	<string name="TAB2_SAVED_MSG">Would you like add another marker or view this marker in the map?</string>
+	<string name="TAB2_GO_MAP">Go to map</string>
+	<string name="TAB2_GO_MARKER">Add marker</string>
+</resources>

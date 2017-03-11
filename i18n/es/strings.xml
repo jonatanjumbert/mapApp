@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="GLOBAL_OK">OK</string>
+	<string name="GLOBAL_CANCEL">Cancelar</string>
+	<string name="GLOBAL_ERROR">Error</string>
+	
+	<string name="TAB1_TITLE">Mapa de Barcelona</string>
+	<string name="TAB1_DELETE_MARKERS">Eliminar marcadores personalizados</string>
+	<string name="TAB1_DELETE_MARKERS_MSG">Estás seguro que deseas eliminar tus marcadores personalizados?</string>
+	
+	<string name="TAB2_TITLE">Añadir marcador</string>
+	<string name="TAB2_ADD">Añadir lugar</string>
+	<string name="TAB2_ADD_TITLE">Nombre del lugar</string>
+	<string name="TAB2_ADD_SUBTITLE">Descripción del lugar</string>
+	<string name="TAB2_ADD_LINK">Enlace de más información</string>
+	<string name="TAB2_ADD_LONGITUDE">Coordenada: LONGITUD</string>
+	<string name="TAB2_ADD_LATITUDE">Coordenada: LATITUD</string>
+	
+	<string name="TAB2_TITLE_MANDATORY">El nombre es obligatorio</string>
+	<string name="TAB2_SUBTITLE_MANDATORY">La descripción es obligatoria</string>
+	<string name="TAB2_LATITUDE_MANDATORY">La latitud es obligatoria</string>
+	<string name="TAB2_LONGITUDE_MANDATORY">La longitud es obligatoria</string>
+	
+	<string name="TAB2_SAVING_MSG">Guardando datos...</string>
+	<string name="TAB2_SAVED_OK">Marcador añadido correctamente</string>
+	<string name="TAB2_SAVED_MSG">Quieres añadir otro marcador o ver la vista del mapa?</string>
+	<string name="TAB2_GO_MAP">Ir al mapa</string>
+	<string name="TAB2_GO_MARKER">Añadir marcador</string>
+</resources>

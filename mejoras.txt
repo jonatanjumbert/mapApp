@@ -1,0 +1,12 @@
+- APP Solo desarrollada para IOS (iphone) // TODO poner los iconos de la APP y splashscreen (aunque ya lo hicimos en la PRAC1)
+
+- Control simple de errores al añadir marcador.
+- Después de añadir marcador:
+	1. Borra los campos del formulario
+	2. Te pregunta si quieres añadir otro marcador o ver el mapa.
+- Pide confirmación del usuario antes de eliminar los marcadores.
+- Obtiene la posición actual del usuario (solo iOS) y la pinta en el mapa.
+	- Para hacer pruebas, poner posición en el simulador (41,41 | 2,189)
+	- Luego probar a cambiar la ubicación (simular el desplazamiento)... (41,42 | 2,189)
+- Te permite realizar rutas hasta tus marcadores.
+	- Selecciona un marcador y clica sobre "Llevame aquí"

@@ -1,0 +1,4 @@
+<resources>
+   <string name="appname">PersoMapa!</string>
+   <string name="NSLocationWhenInUseUsageDescription">PersoMapa necesita acceder a GPS.</string>
+</resources>
